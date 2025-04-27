@@ -10,9 +10,9 @@ CURRENT_SCAN_FILE=$(mktemp)
 # 邮件服务器配置
 SMTP_SERVER="smtp.qq.com"
 SMTP_PORT="587"
-SMTP_USER="861785837@qq.com"
-SMTP_PASS="ilrsdupbblodbbhh"
-FROM_EMAIL="861785837@qq.com"
+SMTP_USER="****"
+SMTP_PASS="****"
+FROM_EMAIL="*****"
 
 # 获取本地网络范围函数
 get_network_range() {
